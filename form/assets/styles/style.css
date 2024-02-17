@@ -58,6 +58,7 @@ fieldset.grupo .campo{
 
 .campo select option{
     padding-right: 1em;
+    transition: .5s;
 }
 
 .campo input:focus, .campo select:focus, .campo textarea:focus {
